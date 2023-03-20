@@ -2,9 +2,11 @@
 
 # The source code has three files constants.js, index.js and api.js
 
-# constants.js has all constants exported
+# transaactions.csv file is placed in the same directory (In the local environment)
 
-# api.js has a API call to cryptocompare, this call needs a API key which is being picked up from .env file
+# constants.js has all the exported constants
+
+# api.js has a API call to cryptocompare, this call needs a API key which is being picked up from .env file (in the local environment)
 
 # index.js is the main file that contain all the functions
 
